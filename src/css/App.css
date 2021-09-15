@@ -1,0 +1,19 @@
+#add-blog *{
+  box-sizing: border-box;
+}
+
+#add-blog{
+  margin:20px auto;
+  max-width: 600px;
+  padding: 20px;
+}
+
+label{
+  display: block;
+  margin: 20px 0 10px;
+}
+
+.submmitblog{
+  color: blue;
+  background-color: black;
+}
